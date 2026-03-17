@@ -1,3 +1,6 @@
+
+/* ===== GLOBAL ===== */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -14,6 +17,8 @@ header {
 section {
     padding: 40px;
 }
+
+/* ===== NAVIGATION ===== */
 
 nav {
     display: flex;
@@ -32,6 +37,8 @@ nav a {
     text-decoration: none;
     color: white;
 }
+
+/* ===== HERO ===== */
 
 #hero {
     min-height: 80vh;
