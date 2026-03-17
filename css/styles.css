@@ -56,7 +56,14 @@ nav a {
     margin: 16px 0;
 }
 
-.hero-content p {
+.hero-role,
+.hero-meta {
+    font-size: 18px;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
+
+.hero-content p{
     margin: 12px 0;
     line-height: 1.6;
 }
